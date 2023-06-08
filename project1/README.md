@@ -12,5 +12,6 @@ Give a high-level overview of the project purpose
 ## Technologies
 - List all technologies and versions here
 - Bootstrap, JS, routes, sequelize
-Project_1.pdf
+- https://github.com/kadiejohnstun/Portfolio_Multiverse/blob/aa4cce6d21ce4b61b03ba53d8cab9d18da25fbe8/Project_1.pdf
+
 
